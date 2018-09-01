@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layouts, Marcelo Vieira</string>
+    <string name="title_activity_table">TableActivity</string>
+    <string name="nome">Nome:</string>
+    <string name="title_activity_cardapio">CardapioActivity</string>
+    <string name="subtitulo_robo_1">Subtitulo Robo 1</string>
+    <string name="t_tilo_rob_1">Títilo Robô 1</string>
+    <string name="t_tilo_rob_2">Títilo Robô 2</string>
+    <string name="subtitulo_robo_2">Subtitulo Robo 2</string>
+</resources>
